@@ -209,11 +209,6 @@ gtPlusPlus.nei.GT_NEI_MillingMachine,GT++,gregtech:gt.blockmachines:31027,,miscu
 li.cil.oc.integration.nei.CallbackDocHandler,OpenComputers,OpenComputers:item:98,,OpenComputers,TRUE,,,120,,2,,,,,,
 li.cil.oc.integration.nei.ManualUsageHandler,OpenComputers,OpenComputers:item:98,,OpenComputers,TRUE,,,120,,2,,,,,,
 com.pam.harvestcraft.GardenRecipeHandler,Pam's Harvestcraft,harvestcraft:berrygarden,,harvestcraft,TRUE,,,100,,5,,,,,,
-tonius.neiintegration.mods.harvestcraft.RecipeHandlerApiary,Pam's Harvestcraft,harvestcraft:apiary,,harvestcraft,TRUE,,,70,,5,,,,,,There's only 1 though
-tonius.neiintegration.mods.harvestcraft.RecipeHandlerChurn,Pam's Harvestcraft,harvestcraft:churn,,harvestcraft,TRUE,,,65,,5,,,,,,Same as above
-tonius.neiintegration.mods.harvestcraft.RecipeHandlerOven,Pam's Harvestcraft,harvestcraft:oven,,harvestcraft,TRUE,,,65,,5,,,,,,
-tonius.neiintegration.mods.harvestcraft.RecipeHandlerPresser,Pam's Harvestcraft,harvestcraft:presser,,harvestcraft,TRUE,,,65,,5,,,,,,
-tonius.neiintegration.mods.harvestcraft.RecipeHandlerQuern,Pam's Harvestcraft,harvestcraft:quern,,harvestcraft,TRUE,,,65,,5,,,,,,
 gcewing.projectblue.nei.NEIRecipeHandler,ProjectBlue,ProjectBlue:sprayCan,,ProjectBlue,TRUE,,,65,,5,,,,,,
 mrtjp.projectred.core.libmc.recipe.PRShapedRecipeHandler,ProjectRed,ProjRed|Transmission:projectred.transmission.wire:7,,ProjRed|Transmission,TRUE,,,,,,,,,,,
 mrtjp.projectred.core.libmc.recipe.PRShapelessRecipeHandler,ProjectRed,ProjRed|Transmission:projectred.transmission.wire:7,,ProjRed|Transmission,TRUE,,,,,,,,,,,
